@@ -9,7 +9,9 @@
 
 		{{ .Content }}
 		
+		{{ if in site.Params.mainSections .Type }}
 		{{ partial "single/comments.html" . }}
+		{{ end }}
 
 		{{ partial "single/footer.html" . }}
 	</div>
