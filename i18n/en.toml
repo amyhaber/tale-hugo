@@ -1,3 +1,9 @@
+caution = 'Caution'
+important = 'Important'
+note = 'Note'
+tip = 'Tip'
+warning = 'Warning'
+
 [writtenBy]
 other = "Written by"
 
