@@ -26,6 +26,11 @@
     margin: 0 auto 3rem;
     width: 4rem;
   }
+  
+  &-content {
+    color: var(--default-shade);
+    font-family: $sans-serif;
+  }
 
   p {
     margin: 0 0 1rem;
