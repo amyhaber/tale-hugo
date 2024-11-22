@@ -4,6 +4,8 @@ note = 'Note'
 tip = 'Tip'
 warning = 'Warning'
 
+toc = "Contents"
+
 [writtenBy]
 other = "Written by"
 
